@@ -8,7 +8,7 @@ We propose a refiner module that extracts dense, spatially-aware features direct
 
 
 ## Key Features 🔍
-- **Refiner Architecture**: Refine CLIP's dense features through SSL pipeline for enhanced spatial sensitivity
+- **Refiner Architecture**: Refines CLIP's dense features through SSL pipeline for enhanced spatial sensitivity
 - **SCD-Guidance**: Maintains region-language matching capabilities while adding spatial awareness
 - **Model-Agnostic Design**: Verified effective on multiple CLIP variants
 
