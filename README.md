@@ -21,7 +21,7 @@ Official implementation of the paper **Refining CLIP's Spatial Awareness: A Visu
 [[arXiv Paper]](https://arxiv.org/abs/2504.02328)
 
 ## TODO
-- [ ] Release trained Refiner models and codes (MetaCLIP, EVA-CLIP)
+- [ ] Release trained Refiner models and codes
 - [ ] Release fine-tuned VLMs with Refiner integration
 - [ ] Add SigLIP v2 support
 
